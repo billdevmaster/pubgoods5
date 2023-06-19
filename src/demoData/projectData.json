@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "ApeCoin DAO",
+    "status": "early",
+    "content": "The ApeCoin community governs itself via the ApeCoin DAO, the decentralized governance framework that supports the Ecosystem Fund. The DAO follows a proposal process to vote on how the Ecosystem Fund will be distributed by the APE Foundation to promote a diverse and self-sustaining ecosystem. This governance guide is an overview of the proposal process. It’s a living document that will evolve and improve with the DAO community’s input.",
+    "category": "Web Design",
+    "rate": 5,
+    "popular": 1,
+    "percentage": 85
+  },
+  {
+    "id": 2,
+    "title": "Polybase",
+    "status": "progress",
+    "content": " Decentralized Alternative to Firebase, Postgres and Supabase.",
+    "category": "Web Development",
+    "rate": 3,
+    "popular": 2,
+    "percentage": 38
+  },
+  {
+    "id": 3,
+    "title": "Ceramic",
+    "status": "early",
+    "content": "A decentralized, composable graph database to build interoperable applications on Ceramic.",
+    "category": "Graphic Design",
+    "rate": 4,
+    "popular": 3,
+    "percentage": 46
+  },
+  {
+    "id": 4,
+    "title": "libp2p",
+    "status": "late",
+    "content": "libp2p is an open source project from the IPFS community.",
+    "category": "Web Development",
+    "rate": 5,
+    "popular": 4,
+    "percentage": 29
+  },
+  {
+    "id": 5,
+    "title": "ENS",
+    "status": "progress",
+    "content": "Your web3 username, a name for all your cryptocurrency addresses, and decentralised websites.",
+    "category": "Web Development",
+    "rate": 4,
+    "popular": 5,
+    "percentage": 96
+  },
+  {
+    "id": 6,
+    "title": "Lit Protocol",
+    "status": "complete",
+    "content": "Lit is a blockchain-agnostic middleware network that can be used to read and write data between blockchains, state machines, and off-chain platforms",
+    "category": "Graphic Design",
+    "rate": 3,
+    "popular": 6,
+    "percentage": 73
+  },
+  {
+    "id": 7,
+    "title": "Dataverse",
+    "status": "progress",
+    "content": "A data wallet & gateway to web3 dApps.",
+    "category": "Web Development",
+    "rate": 2,
+    "popular": 7,
+    "percentage": 42
+  },
+  {
+    "id": 8,
+    "title": "Spheron",
+    "status": "early",
+    "content": "Spheron is the simplest, fastest and most convenient way to deploy your web apps and projects onto Decentralized Cloud Storage.",
+    "category": "Graphic Design",
+    "rate": 4,
+    "popular": 8,
+    "percentage": 36
+  },
+  {
+    "id": 9,
+    "title": "Livepeer",
+    "status": "late",
+    "content": "Livepeer.js is a typescript SDK that provides a collection of React hooks and video components for easy interaction with the Livepeer API",
+    "category": "Web Development",
+    "rate": 3,
+    "popular": 9,
+    "percentage": 82
+  },
+  {
+    "id": 10,
+    "title": "Drand",
+    "status": "progress",
+    "content": "Verifiable, unpredictable and unbiased random numbers as a service.",
+    "category": "Web Development",
+    "rate": 2,
+    "popular": 10,
+    "percentage": 63
+  },
+  {
+    "id": 11,
+    "title": "Huddle",
+    "status": "complete",
+    "content": "Our current suite of developer-friendly SDKs enable cross-chain audio/video communication for dApps ",
+    "category": "Graphic Design",
+    "rate": 1,
+    "popular": 11,
+    "percentage": 53
+  },
+  {
+    "id": 12,
+    "title": "Fission",
+    "status": "early",
+    "content": "We've built a true local-first edge computing stack. It helps you build passwordless apps with private & secure user-owned data",
+    "category": "Web Design",
+    "rate": 5,
+    "popular": 12,
+    "percentage": 33
+  }
+]
